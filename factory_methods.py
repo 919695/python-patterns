@@ -46,3 +46,12 @@ class VolenterFactory(LeiFengFactory):
     def createLeiFeng():
         temp = Volenter()
         return temp
+
+if __name__ == "__main__":
+    lf = LeiFengFactory.createLeiFeng()
+    lf.sweep()
+    lf = StudentFactory.createLeiFeng()
+    lf.sweep()
+    lf = VolenterFactory.createLeiFeng()
+    lf.sweep()
+    pass

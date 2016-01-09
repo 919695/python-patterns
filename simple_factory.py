@@ -56,3 +56,9 @@ class OperationFactory(object):
         elif ch == '/':
             return OperationDiv()
         pass
+
+
+if __name__ == '__main__':
+    operatcion = OperationFactory.create('/')
+    sum = operatcion.get_result(0, 0)
+    print(sum)
