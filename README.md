@@ -12,3 +12,7 @@ python设计模式示例,不是照搬静态语言对设计模式的实现,而是
 + [抽象工厂](abstract_factory.py)
 + [建造者](builder.py)
 + [工厂方法](factory_method.py)
+
+### 结构型
+
++ [适配器](adpater.py)
