@@ -17,6 +17,7 @@ python设计模式示例,不是照搬静态语言对设计模式的实现,而是
 
 + [适配器](adpater.py)
 + [桥接模式](brigde.py)
++ [组合模式](composite.py)
 
 ### 参考
 + <https://github.com/faif/python-patterns>
