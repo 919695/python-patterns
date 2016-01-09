@@ -16,3 +16,10 @@ python设计模式示例,不是照搬静态语言对设计模式的实现,而是
 ### 结构型
 
 + [适配器](adpater.py)
++ [桥接模式](brigde.py)
+
+### 参考
++ <https://github.com/faif/python-patterns>
++ <https://github.com/wklken/py-patterns>
++ <http://www.cnblogs.com/wuyuegb2312/archive/2013/04/09/3008320.html>
++ <http://www.cnblogs.com/houleixx/archive/2008/02/23/1078877.html> (桥接模式)
